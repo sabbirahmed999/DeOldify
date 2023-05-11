@@ -13,4 +13,4 @@ torchvision==0.12.0
 ipywidgets
 Flask==2.1.1
 Werkzeug==2.0.2
-
+gunicorn
